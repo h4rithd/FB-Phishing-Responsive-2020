@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+ <head>
+  <title>Find your Facebook ID - a 5-second easy tool for locating your Facebook numeric personal ID</title>
+  <meta name="description" content="If you need to know your Facebook numeric peronal ID, just plug your Profile URL into this simple tool." />
+  <link rel="stylesheet" href="reset.css" type="text/css" media="screen">
+  <link rel="stylesheet" href="style.css" type="text/css" media="screen">
+  
+ <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>  <script src="script.js" type="text/javascript" charset="utf-8"></script>
+ </head>
+ <body>
+<h3>    
+Your ID is incorrect !<br></br>
+...Please add "/?id=facebook" at the end of URL  <br>
+example: www.yourdomain.sub.com/?id=facebook
+
+</h3>  
+ </body>
+</html>
